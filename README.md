@@ -1,12 +1,12 @@
 # Cybersecurity Domain Projects 2024-25
 ## Team 1 
 Members : 
-Deeksha Ramachandra (PL)
-Anusha
-Shreya
-KARTHICK AIL
-Shaamak Madhwaraj Bolar 
-Vidyalakshmi kamath 
+Deeksha Ramachandra (PL),
+Anusha,
+Shreya,
+KARTHICK AIL,
+Shaamak Madhwaraj Bolar, 
+Vidyalakshmi kamath,
 Paras Savera
 
 Project name : Password Strength Checker
@@ -15,12 +15,12 @@ Description : This tool will assess the strength of user passwords by analyzing 
 
 # Team 2
 Members :
-Shishir D  (PL)
-Yashraj
-Bansi S Sinojia
-Keerthana Shenoy
-Sujan S
-Aditi V P
+Shishir D  (PL),
+Yashraj,
+Bansi S Sinojia,
+Keerthana Shenoy,
+Sujan S,
+Aditi V P,
 Suvan S Kotian
 
 Project name : Cryptographic Algorithm for Text Encryption 
@@ -29,12 +29,12 @@ Description: An encryption algorithm is the method used to transform data into c
 
 # Team 3
 Members :
-Harshitha P Salian  (PL)
-Sangeetha J 
-Shama S Bangera 
-Sthuthi 
-Ananya S Nayak
-Shriraksha Jagadish Naik 
+Harshitha P Salian  (PL),
+Sangeetha J,
+Shama S Bangera, 
+Sthuthi,
+Ananya S Nayak,
+Shriraksha Jagadish Naik, 
 Shrinidhi P Shetty
 
 Project name : SecureSurf: Intelligent Browser Extension for Online Safety
@@ -43,11 +43,11 @@ Description : a browser extension that assesses the security of websites in real
 
 # Team 4
 Members : 
-Lakhi A shetty  (PL)
-Dhaneen Shetty 
-Hafid
-Takshak Shetty
-Alima Raniya 
+Lakhi A shetty  (PL),
+Dhaneen Shetty,
+Hafid,
+Takshak Shetty,
+Alima Raniya,
 DHANYASHREE
 
 Project name : 
