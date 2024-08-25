@@ -50,6 +50,7 @@ Takshak Shetty,
 Alima Raniya,
 DHANYASHREE
 
-Project name : 
+Project name : Password cracking and security analysis
 
-Description : 
+Description : Explore different password cracking techniques (e.g., brute force, dictionary attacks) and create a tool to analyze password strength. Also suggest ways to improve 
+password security
